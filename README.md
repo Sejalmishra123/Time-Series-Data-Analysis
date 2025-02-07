@@ -22,12 +22,12 @@ pip install -r requirements.txt
 ## 📊 Dataset
 The dataset should be in CSV format and contain:
 
-Month column (as a datetime index)
+- Month column (as a datetime index)
 
-Passengers column (passenger count per month)
+- Passengers column (passenger count per month)
 
-##📈 Output
-Time series plots
-Decomposition of trend, seasonality, and residuals
-ACF and PACF plots
-ARIMA model predictions
+## 📈 Output
+- Time series plots
+- Decomposition of trend, seasonality, and residuals
+- ACF and PACF plots
+- ARIMA model predictions
