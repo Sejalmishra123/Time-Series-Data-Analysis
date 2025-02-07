@@ -1,0 +1,5 @@
+numpy  # Used for numerical computations
+pandas  # Used for handling and processing data
+matplotlib  # Used for data visualization
+statsmodels  # Used for statistical analysis and ARIMA modeling
+scipy  # Used for mathematical and statistical functions
