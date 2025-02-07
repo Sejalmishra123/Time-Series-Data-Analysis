@@ -15,3 +15,13 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
+
+
+## Dataset
+The dataset should be in CSV format and contains a 'Month' column as a datetime index and a '#Passengers' column.
+
+## Output
+- Time series plots
+- Decomposition of trend, seasonality, and residuals
+- ACF and PACF plots
+- ARIMA model predictions
