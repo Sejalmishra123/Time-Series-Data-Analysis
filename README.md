@@ -15,12 +15,15 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
-📊 Dataset
+
+## 📊 Dataset
 The dataset should be in CSV format and contain:
 
 Month column (as a datetime index)
-#Passengers column (passenger count per month)
-📈 Output
+
+Passengers column (passenger count per month)
+
+##📈 Output
 Time series plots
 Decomposition of trend, seasonality, and residuals
 ACF and PACF plots
