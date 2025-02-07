@@ -14,7 +14,9 @@ This project performs time series analysis on a dataset of air passengers using 
 Install dependencies using:
 
 ```bash
-pip install -r requirements.txt` ``` `
+pip install -r requirements.txt
+
+``` 
 
 
 ## 📊 Dataset
